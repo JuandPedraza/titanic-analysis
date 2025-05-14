@@ -2,8 +2,6 @@
 env/
 venv/
 
-# Ignorar checkpoints de Jupyter
-.ipynb_checkpoints/
 
 # Archivos temporales
 *.pyc
